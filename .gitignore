@@ -1,0 +1,33 @@
+# Build artifacts
+target/
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# Log files
+*.log
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Gradle build directores
+.gradle/
+build/
+
+# Other common ignored files
+*.swp
+*.bak
+
+# Test reports and coverage
+test-reports/
+coverage/
+
